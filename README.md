@@ -1,5 +1,9 @@
-# pyfiglet-ascii-text-viewer-with-colours
-just a shitty python script made bc i was bored
-requires:
-pip install pyfiglet
-pip install colorama
+# python-ascii-text-gen
+made it because i was bored
+# Features
+> has colours\
+> custom fonts
+# Requires
+> pip install pyfiglet\
+> pip install pystyle
+
